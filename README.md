@@ -1,2 +1,3 @@
-# Corporate_Helper
-Repo for use by people in the corporate world, trying to alleviate tedious tasks.
+# FP&A Manufacturing Hub
+
+Toolkit for financial analysts in manufacturing.
